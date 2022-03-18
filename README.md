@@ -3,6 +3,9 @@ A simple form example built in React with hooks
 
 # Getting Started
 1. Clone this repository
+    ```
+    git clone git@github.com:scbowler/react-form-with-hooks.git
+    ```
 1. Change directories
     ```
     cd react-form-with-hooks
